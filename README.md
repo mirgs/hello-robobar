@@ -75,3 +75,4 @@ After the plugins are installed, try it out:
 stryker run
 ```
 
+# hello-robobar
